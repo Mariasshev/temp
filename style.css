@@ -1,0 +1,10 @@
+.title{
+    color: white;
+    margin-left: 15px;
+}
+.sidebar{
+    display: inline-block;
+}
+.txt, .section-content{
+    display: flex;
+}
